@@ -1,0 +1,2096 @@
+fileFormatVersion: 2
+guid: 8dc75ff85abd63f4a828f651fa00d107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8309266664364814373
+    second: junglehunt_0
+  - first:
+      213: 627849881347111809
+    second: junglehunt_1
+  - first:
+      213: 7551525898854040453
+    second: junglehunt_2
+  - first:
+      213: 2268335113313697112
+    second: junglehunt_3
+  - first:
+      213: -1613255304160977607
+    second: junglehunt_4
+  - first:
+      213: 1545416120156164906
+    second: junglehunt_5
+  - first:
+      213: 1237939064546511757
+    second: junglehunt_6
+  - first:
+      213: -9113890549948533671
+    second: junglehunt_7
+  - first:
+      213: -8206047661512894733
+    second: junglehunt_8
+  - first:
+      213: -338716123157948598
+    second: junglehunt_9
+  - first:
+      213: -4737788862632331417
+    second: junglehunt_10
+  - first:
+      213: -3767324010023564382
+    second: junglehunt_11
+  - first:
+      213: 1564965450205299531
+    second: junglehunt_12
+  - first:
+      213: -7657299527092957767
+    second: junglehunt_13
+  - first:
+      213: 3961674699854409009
+    second: junglehunt_14
+  - first:
+      213: -4479020117949611291
+    second: junglehunt_15
+  - first:
+      213: 6359096642679102292
+    second: junglehunt_16
+  - first:
+      213: -2128637152449238564
+    second: junglehunt_17
+  - first:
+      213: -2658740076584555288
+    second: junglehunt_18
+  - first:
+      213: -4203785922805216350
+    second: junglehunt_19
+  - first:
+      213: -5758436472915335130
+    second: junglehunt_20
+  - first:
+      213: -6821526888059736502
+    second: junglehunt_21
+  - first:
+      213: 3881335754995115277
+    second: junglehunt_22
+  - first:
+      213: 8571019017749269722
+    second: junglehunt_23
+  - first:
+      213: 2053560677689481999
+    second: junglehunt_24
+  - first:
+      213: -2231039018325180812
+    second: junglehunt_25
+  - first:
+      213: 6267711499652053553
+    second: junglehunt_26
+  - first:
+      213: -2002876802065318817
+    second: junglehunt_27
+  - first:
+      213: 4130958122884316378
+    second: junglehunt_28
+  - first:
+      213: -7106037131882061063
+    second: junglehunt_29
+  - first:
+      213: -3853723906849087009
+    second: junglehunt_30
+  - first:
+      213: -3750648429164761573
+    second: junglehunt_31
+  - first:
+      213: 185679546255894878
+    second: junglehunt_32
+  - first:
+      213: 4545917043586408384
+    second: junglehunt_33
+  - first:
+      213: -8299807210572448827
+    second: junglehunt_34
+  - first:
+      213: 1158882745085058749
+    second: junglehunt_35
+  - first:
+      213: 6565974598862547188
+    second: junglehunt_36
+  - first:
+      213: 2209885937150454549
+    second: junglehunt_37
+  - first:
+      213: 7130374188885303328
+    second: junglehunt_38
+  - first:
+      213: -1505588973945269993
+    second: junglehunt_39
+  - first:
+      213: -1834883056135405810
+    second: junglehunt_40
+  - first:
+      213: 7875521250774087958
+    second: junglehunt_41
+  - first:
+      213: 1395710031362609546
+    second: junglehunt_42
+  - first:
+      213: 9166752146311587298
+    second: junglehunt_43
+  - first:
+      213: -3641049174772492389
+    second: junglehunt_44
+  - first:
+      213: 4303169478750894401
+    second: junglehunt_45
+  - first:
+      213: -651976524437488760
+    second: junglehunt_46
+  - first:
+      213: 767920755050570821
+    second: junglehunt_47
+  - first:
+      213: -4462180983403447341
+    second: junglehunt_48
+  - first:
+      213: -1848531149686809123
+    second: junglehunt_49
+  - first:
+      213: -939646657530770320
+    second: junglehunt_50
+  - first:
+      213: -5142066610257487611
+    second: junglehunt_51
+  - first:
+      213: 8389215180368151602
+    second: junglehunt_52
+  - first:
+      213: -7390986305723271824
+    second: junglehunt_53
+  - first:
+      213: 4671767009956905016
+    second: junglehunt_54
+  - first:
+      213: 5921847327128047218
+    second: junglehunt_55
+  - first:
+      213: 2813823066278023178
+    second: junglehunt_56
+  - first:
+      213: 5973733971847015345
+    second: junglehunt_57
+  - first:
+      213: 1764777043626905814
+    second: junglehunt_58
+  - first:
+      213: 3330797491523347092
+    second: junglehunt_59
+  - first:
+      213: -5032174343771202786
+    second: junglehunt_60
+  - first:
+      213: 2503048555216624730
+    second: junglehunt_61
+  - first:
+      213: -7648958074707625830
+    second: junglehunt_62
+  - first:
+      213: -6527662676642000195
+    second: junglehunt_63
+  - first:
+      213: -8909535625572025834
+    second: junglehunt_64
+  - first:
+      213: -5582338157863131945
+    second: junglehunt_65
+  - first:
+      213: -7560348493653332659
+    second: junglehunt_66
+  - first:
+      213: 1370346731148697082
+    second: junglehunt_67
+  - first:
+      213: 8317085197418374954
+    second: junglehunt_68
+  - first:
+      213: -7078893071906012381
+    second: junglehunt_69
+  - first:
+      213: 3480157123181918182
+    second: junglehunt_70
+  - first:
+      213: 7417065121200400762
+    second: junglehunt_71
+  - first:
+      213: 8938763671246090288
+    second: junglehunt_72
+  - first:
+      213: 5289072293918408269
+    second: junglehunt_73
+  - first:
+      213: 49323407473281194
+    second: junglehunt_74
+  - first:
+      213: 8679898719319729450
+    second: junglehunt_75
+  - first:
+      213: 1029382722749504505
+    second: junglehunt_76
+  - first:
+      213: 6324110554748032648
+    second: junglehunt_77
+  - first:
+      213: -9011449178487598995
+    second: junglehunt_78
+  - first:
+      213: 8963700395241725011
+    second: junglehunt_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: junglehunt_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b571c102705370800000000000000
+      internalID: 8309266664364814373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 374
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b37fdf32296b800800000000000000
+      internalID: 627849881347111809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 374
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838b599bc86cc860800000000000000
+      internalID: 7551525898854040453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 374
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbb9474ceba7f10800000000000000
+      internalID: 2268335113313697112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 374
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d587729d09c99e0800000000000000
+      internalID: -1613255304160977607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 374
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231218f5cb627510800000000000000
+      internalID: 1545416120156164906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 374
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcfd3350b0e2110800000000000000
+      internalID: 1237939064546511757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954378015d4f48180800000000000000
+      internalID: -9113890549948533671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6599d11234e1e80800000000000000
+      internalID: -8206047661512894733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 349
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4719770b73ac4bf0800000000000000
+      internalID: -338716123157948598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 348
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677ffd912eff3eb0800000000000000
+      internalID: -4737788862632331417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 348
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abceb4e5c6c7bbc0800000000000000
+      internalID: -3767324010023564382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 348
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430f3119cfd7b510800000000000000
+      internalID: 1564965450205299531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 348
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd8bd476aecbb590800000000000000
+      internalID: -7657299527092957767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d69705622baf630800000000000000
+      internalID: 3961674699854409009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 314
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e209cffee257d1c0800000000000000
+      internalID: -4479020117949611291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 314
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b544f54bc004850800000000000000
+      internalID: 6359096642679102292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 314
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96090b9cf8572e0800000000000000
+      internalID: -2128637152449238564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 281
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2519acf14a1bd0800000000000000
+      internalID: -2658740076584555288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab486fc9f629a5c0800000000000000
+      internalID: -4203785922805216350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 281
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286a32998ce510b0800000000000000
+      internalID: -5758436472915335130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 282
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6c63ff611551a0800000000000000
+      internalID: -6821526888059736502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a1821e464dd530800000000000000
+      internalID: 3881335754995115277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc001ca26062f670800000000000000
+      internalID: 8571019017749269722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 280
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b546e5e86bf7c10800000000000000
+      internalID: 2053560677689481999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef0b855d1c901e0800000000000000
+      internalID: -2231039018325180812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 280
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3463b6626bf650800000000000000
+      internalID: 6267711499652053553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb604092a5434e0800000000000000
+      internalID: -2002876802065318817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb888a68c145930800000000000000
+      internalID: 4130958122884316378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 262
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22f61c0e8426d90800000000000000
+      internalID: -7106037131882061063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd164dd4682d48ac0800000000000000
+      internalID: -3853723906849087009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee14e102503fbc0800000000000000
+      internalID: -3750648429164761573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 229
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5963a4409aa39200800000000000000
+      internalID: 185679546255894878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 230
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf9c514777561f30800000000000000
+      internalID: 4545917043586408384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 229
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7a95f05921dc80800000000000000
+      internalID: -8299807210572448827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbedf1577bd251010800000000000000
+      internalID: 1158882745085058749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 228
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8a0711c170f1b50800000000000000
+      internalID: 6565974598862547188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bebf52d871bae10800000000000000
+      internalID: 2209885937150454549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 228
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206f14eb8d24f260800000000000000
+      internalID: 7130374188885303328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 228
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115f3e1ec21b1be0800000000000000
+      internalID: -1505588973945269993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7aa2059f2986e0800000000000000
+      internalID: -1834883056135405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 184
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619fd6de9d87b4d60800000000000000
+      internalID: 7875521250774087958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 184
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8151d4f0ee8e5310800000000000000
+      internalID: 1395710031362609546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_43
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 184
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a3f07288d63f70800000000000000
+      internalID: 9166752146311587298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 184
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d4ff0115687dc0800000000000000
+      internalID: -3641049174772492389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 184
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ff3d77dde7bb30800000000000000
+      internalID: 4303169478750894401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 184
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b720b2ec6b3f6f0800000000000000
+      internalID: -651976524437488760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 184
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544607cabd338aa00800000000000000
+      internalID: 767920755050570821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 189
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbfbb889062312c0800000000000000
+      internalID: -4462180983403447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5caa96b2b856e0800000000000000
+      internalID: -1848531149686809123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 158
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cce7be754b5f2f0800000000000000
+      internalID: -939646657530770320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 158
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509943c69a5b3a8b0800000000000000
+      internalID: -5142066610257487611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234882232ca7c6470800000000000000
+      internalID: 8389215180368151602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07576933d11fd6990800000000000000
+      internalID: -7390986305723271824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 159
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830cedde75375d040800000000000000
+      internalID: 4671767009956905016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 124
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e409bc4c0ae2250800000000000000
+      internalID: 5921847327128047218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a005d46ab25bc0720800000000000000
+      internalID: 2813823066278023178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 124
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbef9ea567f6e250800000000000000
+      internalID: 5973733971847015345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_58
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 124
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05529fe5fbd7810800000000000000
+      internalID: 1764777043626905814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 116
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e205dbae593e20800000000000000
+      internalID: 3330797491523347092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bdeaf88102a2ab0800000000000000
+      internalID: -5032174343771202786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cdd35366d9cb220800000000000000
+      internalID: 2503048555216624730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98323f282179d590800000000000000
+      internalID: -7648958074707625830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 38
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29d2171651965a0800000000000000
+      internalID: -6527662676642000195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7714ad88fa5480800000000000000
+      internalID: -8909535625572025834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a57c950d8782b0800000000000000
+      internalID: -5582338157863131945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d22a9f91f341790800000000000000
+      internalID: -7560348493653332659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd5c317713740310800000000000000
+      internalID: 1370346731148697082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 19
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2728c6dbe83c6370800000000000000
+      internalID: 8317085197418374954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238116b148b2cd90800000000000000
+      internalID: -7078893071906012381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bdc107700c4030800000000000000
+      internalID: 3480157123181918182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e6113e65bee660800000000000000
+      internalID: 7417065121200400762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0303acb033edc0c70800000000000000
+      internalID: 8938763671246090288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 38
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4efd568a3f866940800000000000000
+      internalID: 5289072293918408269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 90
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88e85b06b3fa000800000000000000
+      internalID: 49323407473281194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 72
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ab6ba5e1357870800000000000000
+      internalID: 8679898719319729450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9867e12a194e00800000000000000
+      internalID: 1029382722749504505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861e000b01c3c750800000000000000
+      internalID: 6324110554748032648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_78
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d2c487b6e0f280800000000000000
+      internalID: -9011449178487598995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junglehunt_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 19
+        width: 27
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c596b8406756c70800000000000000
+      internalID: 8963700395241725011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
